@@ -1,4 +1,4 @@
-set custom messages in properties of the extension objec.
+set custom messages in properties of the extension object.
 
 
 Source 
